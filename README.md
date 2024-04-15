@@ -28,11 +28,16 @@ If you find value in my posts, please Clapp 👏 | Like 👍 and share 📤 them
 To use this application:
 
 Clone the repository to your local machine.
+
 Install all required dependencies using pip install -r requirements.txt
-Run the Streamlit app by executing streamlit run app.py in your terminal.
+
+Run the Streamlit app by executing _streamlit run Application.py_ in your terminal.
+
 The application will open in your default web browser.
+
 Follow the on-screen instructions to upload an audio file and enter your custom prompt.
-Installation
+
+## Installation
 Ensure you have Python installed on your system. Then, install the required packages using the following command:
 
 ## Contributing
